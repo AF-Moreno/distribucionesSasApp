@@ -1,0 +1,9 @@
+/Users/anmoreno/Projects/dotnetcore/DistribucionesSasApp/Source/Poli.Arqsoftware.DistribucionesSasApp.Core/obj/Debug/netstandard2.1/Poli.Arqsoftware.DistribucionesSasApp.Core.csprojAssemblyReference.cache
+/Users/anmoreno/Projects/dotnetcore/DistribucionesSasApp/Source/Poli.Arqsoftware.DistribucionesSasApp.Core/obj/Debug/netstandard2.1/Poli.Arqsoftware.DistribucionesSasApp.Core.AssemblyInfoInputs.cache
+/Users/anmoreno/Projects/dotnetcore/DistribucionesSasApp/Source/Poli.Arqsoftware.DistribucionesSasApp.Core/obj/Debug/netstandard2.1/Poli.Arqsoftware.DistribucionesSasApp.Core.AssemblyInfo.cs
+/Users/anmoreno/Projects/dotnetcore/DistribucionesSasApp/Source/Poli.Arqsoftware.DistribucionesSasApp.Core/obj/Debug/netstandard2.1/Poli.Arqsoftware.DistribucionesSasApp.Core.csproj.CoreCompileInputs.cache
+/Users/anmoreno/Projects/dotnetcore/DistribucionesSasApp/Source/Poli.Arqsoftware.DistribucionesSasApp.Core/bin/Debug/netstandard2.1/Poli.Arqsoftware.DistribucionesSasApp.Core.deps.json
+/Users/anmoreno/Projects/dotnetcore/DistribucionesSasApp/Source/Poli.Arqsoftware.DistribucionesSasApp.Core/bin/Debug/netstandard2.1/Poli.Arqsoftware.DistribucionesSasApp.Core.dll
+/Users/anmoreno/Projects/dotnetcore/DistribucionesSasApp/Source/Poli.Arqsoftware.DistribucionesSasApp.Core/bin/Debug/netstandard2.1/Poli.Arqsoftware.DistribucionesSasApp.Core.pdb
+/Users/anmoreno/Projects/dotnetcore/DistribucionesSasApp/Source/Poli.Arqsoftware.DistribucionesSasApp.Core/obj/Debug/netstandard2.1/Poli.Arqsoftware.DistribucionesSasApp.Core.dll
+/Users/anmoreno/Projects/dotnetcore/DistribucionesSasApp/Source/Poli.Arqsoftware.DistribucionesSasApp.Core/obj/Debug/netstandard2.1/Poli.Arqsoftware.DistribucionesSasApp.Core.pdb

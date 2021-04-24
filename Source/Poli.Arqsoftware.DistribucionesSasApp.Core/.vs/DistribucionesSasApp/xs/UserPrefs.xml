@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{8A37B818-2ACA-4128-8689-DC881FFAD09C}|Default">
+  <MonoDevelop.Ide.ItemProperties.Poli.Arqsoftware.DistribucionesSasApp.DataBase FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Poli.Arqsoftware.DistribucionesSasApp.Api FirstBuild="True" PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.ItemProperties.Poli.Arqsoftware.DistribucionesSasApp.Test FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Poli.Arqsoftware.DistribucionesSasApp.Test/Class1.cs">
+    <Files>
+      <File FileName="Class1.cs" Line="9" Column="1" />
+      <File FileName="Poli.Arqsoftware.DistribucionesSasApp.Test/Class1.cs" Line="9" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DistribucionesSasApp" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Poli.Arqsoftware.DistribucionesSasApp.Core FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

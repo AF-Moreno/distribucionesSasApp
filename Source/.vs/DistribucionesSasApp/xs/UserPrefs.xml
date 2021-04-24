@@ -1,0 +1,61 @@
+﻿<Properties StartupConfiguration="{8A37B818-2ACA-4128-8689-DC881FFAD09C}|Default">
+  <MonoDevelop.Ide.ItemProperties.Poli.Arqsoftware.DistribucionesSasApp.Api PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Poli.Arqsoftware.DistribucionesSasApp.Api/appsettings.Development.json">
+    <Files>
+      <File FileName="Poli.Arqsoftware.DistribucionesSasApp.Api/Controllers/PersonController.cs" Line="27" Column="41" />
+      <File FileName="Poli.Arqsoftware.DistribucionesSasApp.Api/ServiceCollectionExtension.cs" Line="1" Column="1" />
+      <File FileName="Poli.Arqsoftware.DistribucionesSasApp.Api/Startup.cs" Line="23" Column="36" />
+      <File FileName="Poli.Arqsoftware.DistribucionesSasApp.Core/ServiceCollectionExtension.cs" Line="33" Column="10" />
+      <File FileName="Poli.Arqsoftware.DistribucionesSasApp.Core/Domain/IPersonDomain.cs" Line="18" Column="46" />
+      <File FileName="Poli.Arqsoftware.DistribucionesSasApp.Core/Domain/Implementation/PersonDomain.cs" Line="31" Column="41" />
+      <File FileName="Poli.Arqsoftware.DistribucionesSasApp.Core/Repository/Implementation/PersonRepository.cs" Line="51" Column="45" />
+      <File FileName="Poli.Arqsoftware.DistribucionesSasApp.Core/DataAccess/ISqlServer.cs" Line="9" Column="30" />
+      <File FileName="Poli.Arqsoftware.DistribucionesSasApp.Core/DataAccess/Implementation/SqlServer.cs" Line="15" Column="72" />
+      <File FileName="Poli.Arqsoftware.DistribucionesSasApp.Api/appsettings.Development.json" Line="9" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DistribucionesSasApp" expanded="True">
+            <Node name="Poli.Arqsoftware.DistribucionesSasApp.Api" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="appsettings.json" expanded="True">
+                <Node name="appsettings.Development.json" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Poli.Arqsoftware.DistribucionesSasApp.Core" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="DataAccess" expanded="True">
+                <Node name="Implementation" expanded="True" />
+              </Node>
+              <Node name="Domain" expanded="True">
+                <Node name="Implementation" expanded="True" />
+              </Node>
+              <Node name="DTOs" expanded="True" />
+              <Node name="Entity" expanded="True" />
+              <Node name="Repository" expanded="True">
+                <Node name="Implementation" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Poli.Arqsoftware.DistribucionesSasApp.DataBase" expanded="True">
+              <Node name="Tables" expanded="True" />
+            </Node>
+            <Node name="Poli.Arqsoftware.DistribucionesSasApp.Test" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/anmoreno/Projects/dotnetcore/OperacionQuasar/Source/MercadoLibre.OperacionQasar.Test/Unit/UtilsTests/TrilaterationUtilsTest.cs" line="52" column="1" />
+      <Breakpoint file="/Users/anmoreno/Projects/dotnetcore/DistribucionesSasApp/Source/Poli.Arqsoftware.DistribucionesSasApp.Core/DataAccess/Implementation/SqlServer.cs" relfile="Poli.Arqsoftware.DistribucionesSasApp.Core/DataAccess/Implementation/SqlServer.cs" line="44" column="1" />
+      <Breakpoint file="/Users/anmoreno/Projects/dotnetcore/DistribucionesSasApp/Source/Poli.Arqsoftware.DistribucionesSasApp.Api/Controllers/PersonController.cs" relfile="Poli.Arqsoftware.DistribucionesSasApp.Api/Controllers/PersonController.cs" line="26" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
