@@ -28,10 +28,10 @@ namespace Poli.Arqsoftware.DistribucionesSasApp.Api.Controllers
         }
 
         // GET api/values/5
-        [HttpGet("{id}")]
-        public Task<PersonEntity> Get([FromRoute] int id)
+        [HttpGet("{docNumber}")]
+        public Task<PersonEntity> Get(int docNumber)
         {
-            return _personDomain.GetPersonByIdAsync(id);
+            return _personDomain.GetPersonByDocNumberAsync(docNumber);
         }
 
         // POST api/values

@@ -3,6 +3,7 @@ namespace Poli.Arqsoftware.DistribucionesSasApp.Core.Entity
 {
     public class BaseEntity
     {
+        public int Id { get; set; }
 
         public bool Enable { get; set; }
 
@@ -10,7 +11,7 @@ namespace Poli.Arqsoftware.DistribucionesSasApp.Core.Entity
 
         public DateTime? LastModifiedOn { get; set; }
 
-        public DateTime? LastModifiedBy { get; set; }
+        public string LastModifiedBy { get; set; }
 
         public DateTime? DeletedOn { get; set; }
 

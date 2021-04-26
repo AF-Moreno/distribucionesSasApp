@@ -24,6 +24,7 @@ namespace Poli.Arqsoftware.DistribucionesSasApp.Core.Repository
             string storedProcedure = "[dbo].[sp_ChangePersonState]";
             var parameters = new
             {
+                Id = id,
                 Enable = enable
             };
 
@@ -51,12 +52,12 @@ namespace Poli.Arqsoftware.DistribucionesSasApp.Core.Repository
             return _dataAccess.ExecuteQueryAsync<PersonEntity>(storedProcedure);
         }
 
-        public Task<PersonEntity> GetByIdAsync(int id)
+        public Task<PersonEntity> GetByDocNumberAsync(int docNumber)
         {
-            string storedProcedure = "[dbo].[sp_GetPersonById]";
+            string storedProcedure = "[dbo].[sp_GetPersonByDocNumber]";
             var parameters = new
             {
-                Id = id
+                DocNumber = docNumber
             };
 
             return _dataAccess.ExecuteSingleQueryAsync<PersonEntity>(storedProcedure, parameters);
@@ -68,8 +69,8 @@ namespace Poli.Arqsoftware.DistribucionesSasApp.Core.Repository
             var parameters = new
             {
                 Id = id,
+                ModifiedBy = "Admin",
                 person.DocNumber,
-                person.Enable,
                 person.FirstName,
                 person.LastName,
             };

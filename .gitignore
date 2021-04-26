@@ -55,8 +55,9 @@ node_modules/
 *.trx
 /wwwroot
 wwwroot/
-/bin
+*/bin
 bin/
+*.dll
 
 # IDEs and editors
 /.idea

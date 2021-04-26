@@ -13,7 +13,7 @@ namespace Poli.Arqsoftware.DistribucionesSasApp.Core.Domain
 
         Task<bool> ChangePersonStateAsync(int id, bool enable);
 
-        Task<PersonEntity> GetPersonByIdAsync(int id);
+        Task<PersonEntity> GetPersonByDocNumberAsync(int docNumber);
 
         Task<IEnumerable<PersonEntity>> GetAllPeopleAsync();
     }

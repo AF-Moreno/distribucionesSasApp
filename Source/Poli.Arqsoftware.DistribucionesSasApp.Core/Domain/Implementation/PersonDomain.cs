@@ -31,9 +31,9 @@ namespace Poli.Arqsoftware.DistribucionesSasApp.Core.Domain
             return _personRepository.GetAllAsync();
         }
 
-        public Task<PersonEntity> GetPersonByIdAsync(int id)
+        public Task<PersonEntity> GetPersonByDocNumberAsync(int docNumber)
         {
-            return _personRepository.GetByIdAsync(id);
+            return _personRepository.GetByDocNumberAsync(docNumber);
         }
 
         public Task<bool> UpdatePersonAsync(int id, PersonDto person)

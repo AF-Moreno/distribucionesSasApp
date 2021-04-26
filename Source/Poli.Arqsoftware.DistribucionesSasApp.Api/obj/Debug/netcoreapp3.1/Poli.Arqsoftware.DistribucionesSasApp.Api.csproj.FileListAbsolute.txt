@@ -36,3 +36,4 @@
 /Users/anmoreno/Projects/dotnetcore/DistribucionesSasApp/Source/Poli.Arqsoftware.DistribucionesSasApp.Api/obj/Debug/netcoreapp3.1/Poli.Arqsoftware.DistribucionesSasApp.Api.dll
 /Users/anmoreno/Projects/dotnetcore/DistribucionesSasApp/Source/Poli.Arqsoftware.DistribucionesSasApp.Api/obj/Debug/netcoreapp3.1/Poli.Arqsoftware.DistribucionesSasApp.Api.pdb
 /Users/anmoreno/Projects/dotnetcore/DistribucionesSasApp/Source/Poli.Arqsoftware.DistribucionesSasApp.Api/obj/Debug/netcoreapp3.1/Poli.Arqsoftware.DistribucionesSasApp.Api.genruntimeconfig.cache
+/Users/anmoreno/Projects/dotnetcore/DistribucionesSasApp/Source/Poli.Arqsoftware.DistribucionesSasApp.Api/obj/Debug/netcoreapp3.1/Poli.Arqsoftware.DistribucionesSasApp.Api.csprojAssemblyReference.cache
